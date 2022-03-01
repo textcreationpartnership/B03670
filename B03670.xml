@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie humbly offered to the memory of that matchless wit, and unparallel'd example of sincere penitency, the right honorable John Earl of Rochester, who most piously exchanged earthly honour for never-fading glory the 26th day of July, 1680.</title>
+            <author>Holland, Samuel, gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03670</idno>
+            <idno type="STC">Wing H2438</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[131]</idno>
+            <idno type="EEBO-CITATION">99886922</idno>
+            <idno type="PROQUEST">ocm99886922</idno>
+            <idno type="VID">181457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03670)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181457)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[132])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie humbly offered to the memory of that matchless wit, and unparallel'd example of sincere penitency, the right honorable John Earl of Rochester, who most piously exchanged earthly honour for never-fading glory the 26th day of July, 1680.</title>
+                  <author>Holland, Samuel, gent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed for the author, MDCLXXX. [1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "No more, wild atheists! No more deny".</note>
+                  <note>Within mourning borders.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rochester, John Wilmot, --  Earl of, 1647-1680 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:181457:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <head>AN ELEGIE Humbly offered to the Memory of that Matchleſs WIT, and Unparallel'd Example of Sincere Penitency, THE RIGHT HONORABLE JOHN Earl of ROCHESTER, Who moſt Piouſly exchanged Earthly Honour for Never-fading Glory <date>the 26<hi rend="sup">th</hi> Day of <hi>July,</hi> 1680.</date>
+            </head>
+            <lg>
+               <l>NO more, wild <hi>Atheiſts!</hi> No more Deny</l>
+               <l>That bleſſed <hi>Hope</hi> which makes us glad to Dye;</l>
+               <l>Diſpute no more the Truth of that Great Day</l>
+               <l>Shall free dead Mankind from their gloomy Clay.</l>
+               <lg>
+                  <l>See here an Argument ſtops all your <hi>Lies</hi>
+                  </l>
+                  <l>The Mighty <hi>ROCHESTER</hi> a <hi>Convert</hi> Dies,</l>
+                  <l>He fell a Poet, but a Saint ſhall Riſe.</l>
+               </lg>
+               <l>Then help us all ye Powr's of Verſe, and flow</l>
+               <l>Into his Praiſe all that Himſelf could do:</l>
+               <l>For who can write without him? or dares try</l>
+               <l>To ſpeak his Worth? Unleſs his Ghoſt were nigh;</l>
+               <l>Where, when our Flames do languiſh we retire</l>
+               <l>To his Great <hi>Genius,</hi> and thence take new Fire.</l>
+               <l>Whoſe lofty Numbers gently ſlid away</l>
+               <l>Like Chryſtal waters, ſmooth and deep as They;</l>
+               <l>Though ſome low Men by others <hi>Verſe</hi> are Rais'd</l>
+               <l>(<hi>Fools</hi> living that would, dead, be <hi>Prais'd:</hi>)</l>
+               <l>To Celebrate his <hi>Marble</hi> he needs none,</l>
+               <l>His Name out-lives both <hi>Epitaph</hi> and <hi>Stone.</hi>
+               </l>
+               <l>Exceſs of <hi>Wit</hi> alone his Fame did ſpoil,</l>
+               <l>So Lamps extinguiſh't are by too much Oil;</l>
+               <l>And ſince he's gone, we grov'ling Trifles Crawl</l>
+               <l>About the World, which but confirms his Fall;</l>
+               <l>As when retiring <hi>Sol</hi> blinds us with Night,</l>
+               <l>Each petty Star peeps forth to brag ſtoln Light.</l>
+               <l>Yet not his <hi>Muſe</hi> do we ſo much admire,</l>
+               <l>As thoſe rare ſparks of true <hi>Coeleſtial Fire</hi>
+               </l>
+               <l>That warm'd his Breaſt when <hi>Nature's Heats</hi> decay'd,</l>
+               <l>And <hi>Death-cold Horrors</hi> did each Limb Invade:</l>
+               <l>Then did a ſudden <hi>Beam</hi> of <hi>Light Divine</hi>
+               </l>
+               <l>Inſpire his Soul, his Faculties Refine,</l>
+               <l>And from <hi>Pernaſſus</hi> drew his fixed Eye</l>
+               <l>To <hi>Pigſah-Mount,</hi> and ſaving <hi>Calvary;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Bubbling <hi>Froth</hi> that wanton <hi>Fancy</hi> rais'd</l>
+               <l>(Which for <hi>Extravagance</hi> was only <hi>Prais'd</hi>)</l>
+               <l>Is ſoon beat down by this more <hi>Glorious Flame,</hi>
+               </l>
+               <l>Whence ſtraight a <hi>Noble</hi> true <hi>Elixir</hi> came;</l>
+               <l>This <hi>Solomon</hi> for <hi>Wit</hi> and <hi>Pleaſures</hi> too</l>
+               <l>Bids <hi>Vanity of Vanities</hi> adieu.</l>
+               <l>And having taſted all the <hi>ſweets</hi> are Hurl'd</l>
+               <l>O're Youthful minds by a <hi>deluding</hi> World;</l>
+               <l>Begins to Deſcant on <hi>Eternal Themes,</hi>
+               </l>
+               <l>And then ſaw <hi>Viſions,</hi> that before dream'd <hi>Dreams:</hi>
+               </l>
+               <l>He finds Religion is no forged Law</l>
+               <l>For cunning <hi>Knaves</hi> to keep dull <hi>Fools</hi> in Awe;</l>
+               <l>That <hi>Future State,</hi> and the Dread <hi>Judgment Day,</hi>
+               </l>
+               <l>And <hi>Heav'n</hi> and <hi>Hell</hi> (what e're our Drols may ſay)</l>
+               <l>Are ſerious things. Nor did this <hi>Knowledge</hi> ſcare</l>
+               <l>Or fright him to wild Deſarts of <hi>Deſpair;</hi>
+               </l>
+               <l>But gently wrought, to ſhew 'twas from above</l>
+               <l>Th' inſtructive Breathings of the <hi>Holy Dove;</hi>
+               </l>
+               <l>Taught him with humble <hi>Faith</hi> and <hi>Hope</hi> to fly</l>
+               <l>For Balm to <hi>Gilead,</hi> and on Chriſt relye.</l>
+               <l>Now with redoubled <hi>Sighs</hi> and Floods of <hi>Tears,</hi>
+               </l>
+               <l>He chides the <hi>Follies</hi> of his miſpent years:</l>
+               <l>Himſelf his <hi>looſer Lines</hi> to Flames bequeaths,</l>
+               <l>And <hi>Hobs</hi>'s <hi>Creed</hi> with Deteſtation leaves;</l>
+               <l>Warns all our <hi>Touthful Nobles,</hi> lets them know</l>
+               <l>True <hi>Honour</hi> can from <hi>Vertue</hi> only flow:</l>
+               <lg>
+                  <l>That <hi>Piety</hi> will give a laſting Crown</l>
+                  <l>When their <hi>Gay Titles</hi> All muſt tumble down,</l>
+                  <l>And dark <hi>Oblivion</hi> worldly <hi>Grandeur</hi> Drown.</l>
+               </lg>
+               <l>To hear him thus on Solemn <hi>Death-Bed</hi> Preach,</l>
+               <l>Did more than Forty <hi>languid Sermons</hi> Teach.</l>
+               <lg>
+                  <l>The <hi>Angels</hi> clapt their Wings on that bleſt Day</l>
+                  <l>Envy'd unworthy <hi>Earth</hi> his longer ſtay.</l>
+                  <l>And ſo in <hi>Triumph</hi> bore his <hi>Soul</hi> away.</l>
+               </lg>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>The <hi>EPITAPH.</hi>
+            </head>
+            <lg>
+               <l>UNder this Tomb we do Interr</l>
+               <l>The Aſhes of Great <hi>ROCHESTER;</hi>
+               </l>
+               <l>Whoſe pointed <hi>Wit</hi> (his worſt of Crimes)</l>
+               <l>So Juſtly laſht our Foppiſh Times;</l>
+               <l>Let none too Rigorous Cenſures fix</l>
+               <l>Great Errors with great Parts will mix;</l>
+               <l>How broad ſoe're his Fault be ſhown,</l>
+               <l>His Penitence as large was known.</l>
+            </lg>
+            <lg>
+               <l>Forbear then!—and let you and I</l>
+               <l>By him, at leaſt, learn how to Dye.</l>
+            </lg>
+            <closer>
+               <signed>SAMUEL HOLLAND.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, MDCLXXX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
